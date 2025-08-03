@@ -21,7 +21,7 @@ The application consists of:
 
 #### 1. Interactive Step-by-Step Deployment (Recommended for Learning)
 ```bash
-cd scripts
+cd ecommerce-k8s/scripts
 chmod +x deploy-step-by-step.sh
 ./deploy-step-by-step.sh
 ```
